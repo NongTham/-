@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord-api-types": "^0.37.58",
+    "discord.js": "^14.13.0",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7"
+  }
+}
